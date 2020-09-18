@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9c67f8-2a1f-41ae-bc45-dd10dab4e8c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hYACZFhJ3UESMFa5Duxb4rzBaW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\react\projects\tetris\src\Images" />
+      <recent name="D:\react\projects\tetris\src\Components" />
+      <recent name="D:\react\projects\tetris\src\Font" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react\projects\tetris\src\Hooks" />
+      <recent name="D:\react\projects\tetris\src\Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9c67f8-2a1f-41ae-bc45-dd10dab4e8c6" name="Default Changelist" comment="" />
+      <created>1600177524168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600177524168</updated>
+      <workItem from="1600177526563" duration="3217000" />
+      <workItem from="1600240153912" duration="13016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="115" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600178395169">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="115" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.43.1536.821@0.43.1536.821" timestamp="1600178395169" />
+    <state x="549" y="211" key="FileChooserDialogImpl" timestamp="1600259798303">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="549" y="211" key="FileChooserDialogImpl/0.43.1536.821@0.43.1536.821" timestamp="1600259798303" />
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1600251260445">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup/0.43.1536.821@0.43.1536.821" timestamp="1600251260445" />
+  </component>
+</project>
